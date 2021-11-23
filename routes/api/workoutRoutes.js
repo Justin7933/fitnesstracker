@@ -62,7 +62,7 @@ router.post("/workouts", async (req, res) => {
 
 });
 
-router.put("/:id", async (req, res) => {
+router.put("/workouts/:id", async (req, res) => {
     try {
         const query = { _id: mongojs.ObjectId(req.params.id) };
         const workout = req.body;
