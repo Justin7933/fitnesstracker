@@ -2,8 +2,6 @@
 This tracker is to allow you to see your budget through a graph viewpoint. It also allows you to change the budget on and offline the internet. Using webpacks and mongodb to do so.<p>
 ## Tools used 
   <ul>
-    <li><strong>compression</strong></li>
-    <li><strong>lite-server</strong></li>
     <li><strong>Node.js</strong></li>
     <li><strong>Express</strong></li>
     <li><strong>nodemon</strong></li>
