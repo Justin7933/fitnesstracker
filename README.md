@@ -1,5 +1,5 @@
 # Fitness Tracker<p>
-This tracker is to allow you to see your budget through a graph viewpoint. It also allows you to change the budget on and offline the internet. Using webpacks and mongodb to do so.<p>
+This tracker is to allow you to track your fitness workouts all in one application.<p>
 ## Tools used 
   <ul>
     <li><strong>Node.js</strong></li>
@@ -14,10 +14,10 @@ This tracker is to allow you to see your budget through a graph viewpoint. It al
 As a User
 
 ### I want to
-  Create a budget tracker
+  Create a fitness tracker
 
 ### So that 
-I can see my budget on and offline the internet
+I can see my fitness workouts in one place
 
 ## links 
 *Here* is the deployed heroku site: https://glacial-inlet-02418.herokuapp.com/<p>
