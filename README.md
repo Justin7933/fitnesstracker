@@ -1,5 +1,5 @@
 # Fitness Tracker<p>
-This tracker is to allow you to track your fitness workouts all in one application.<p>
+This tracker is to allow you to track your fitness workouts all in one application. Using the mongodb you can save the data inna workout list. You can add as many as you want. Follow the instructions on the list and fill in what's needed.<p>
 ## Tools used 
   <ul>
     <li><strong>Node.js</strong></li>
